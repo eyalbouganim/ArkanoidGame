@@ -82,11 +82,14 @@ This configuration is intentionally modular and easy to adjust.
 
 ---
 
-Try to eliminate as many blocks as possible and achieve the highest score:
+### Try to eliminate as many blocks as possible and achieve the highest score:
+
 
 <img width="1002" height="784" alt="image" src="https://github.com/user-attachments/assets/53e403c2-3604-4f65-a64a-237279b63577" />
 
-Didn’t finish the level? Your score still counts:
+
+**Didn’t finish the level? Your score still counts:**
+
 
 <img width="975" height="775" alt="image" src="https://github.com/user-attachments/assets/144d10ef-8fef-4662-9237-5ba0beb3e7d6" />
 
