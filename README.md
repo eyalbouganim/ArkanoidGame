@@ -43,7 +43,11 @@ This project requires **Java (JDK)** and the **JVM** installed.
 Inside `Ass6Game.java`, you can choose to:
 
 - Play the full game (all levels in order), or  
-- Start from a specific level for testing or practice  
+- Start from a specific level for testing or practice
+
+
+<img width="690" height="287" alt="image" src="https://github.com/user-attachments/assets/abc0f73b-d7af-4d3b-b9d8-c11647da36a1" />
+
 
 This configuration is intentionally modular and easy to adjust.
 
