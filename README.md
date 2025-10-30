@@ -90,7 +90,7 @@ Didn’t finish the level? Your score still counts:
 
 <img width="975" height="775" alt="image" src="https://github.com/user-attachments/assets/144d10ef-8fef-4662-9237-5ba0beb3e7d6" />
 
-You can always try again.
+### Try again to achieve a higher score!
 
 
 
