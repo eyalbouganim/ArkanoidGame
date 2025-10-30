@@ -5,14 +5,14 @@ Developed as part of an academic OOP course, featuring multiple levels, score tr
 
 ## 🚀 Features
 
-- ✅ 4 progressively challenging levels  
-- ✅ Smooth paddle & ball physics  
-- ✅ Scoring system with persistent UI updates  
-- ✅ Pause & resume functionality (`P` to pause, `SPACE` to continue`)  
-- ✅ Win & Game-Over screens  
-- ✅ Easily extendable code structure  
-- ✅ Uses the **Observer Design Pattern** for decoupled event handling  
-- ✅ Clean OOP design — abstractions, inheritance & encapsulation
+- Four playable levels with increasing difficulty  
+- Responsive paddle and ball mechanics  
+- Score tracking and on-screen updates  
+- Pause and resume support (P to pause, SPACE to continue)  
+- Game-over and win screens  
+- Modular structure for adding new levels and features  
+- Observer pattern for decoupled event handling  
+- Object-oriented design focused on clarity and maintainability
 
 
 ## 🛠️ Tech & Concepts
@@ -26,3 +26,14 @@ Developed as part of an academic OOP course, featuring multiple levels, score tr
 
 
 ## 🎥 Screenshots & Gameplay Experience
+
+**Controls**
+
+| Key | Action |
+|-----|--------|
+| ➡️ / ⬅️ | Move paddle |
+| **P** | Pause |
+| **SPACE** | Continue after pause |
+| **ESC** | Exit game (if applicable) |
+
+---
