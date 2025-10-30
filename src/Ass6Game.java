@@ -66,16 +66,16 @@ public class Ass6Game {
             }
         }
 
-        if (levels.size() == 0) {
-            levels.add(new Level1(false));
-            levels.add(new Level2(false));
-            levels.add(new Level3(false));
-            levels.add(new Level4(true));
-        }
-        gameFlow.runLevels(levels);
+//        if (levels.size() == 0) {
+//            levels.add(new Level1(false));
+//            levels.add(new Level2(false));
+//            levels.add(new Level3(false));
+//            levels.add(new Level4(true));
+//        }
+//        gameFlow.runLevels(levels);
 
-//        List<LevelInformation> levelTest = new ArrayList<>();
-//        levelTest.add(new Level4(true));
-//        gameFlow.runLevels(levelTest);
+        List<LevelInformation> levelTest = new ArrayList<>();
+        levelTest.add(new Level4(true));
+        gameFlow.runLevels(levelTest);
     }
 }
