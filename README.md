@@ -34,7 +34,7 @@ The project was developed as part of an academic OOP course and includes multipl
 This project requires **Java (JDK)** and the **JVM** installed.
 
 1. Clone or download the project
-2. Ensure Java is installed and available from the command line
+2. Ensure JDK is installed and available from the command line
 3. Navigate to the `src` directory
 4. Run the following file as the program entry point: `Ass6Game.java`
 
